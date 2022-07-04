@@ -1,0 +1,2 @@
+|Exercise|Difficulty|Language|Runtime|
+|--------|----------|--------|-------|
