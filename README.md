@@ -70,7 +70,7 @@
 |[Poker Hand](https://open.kattis.com/problems/pokerhand)|[Go](go/poker_hand/main.go)|
 |[Pot](https://open.kattis.com/problems/pot)|[Go](go/pot/main.go)|
 |[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|[Go](go/provinces_and_gold/main.go)|
-|[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[Go](go/quality-adjusted_ life-year/main.go)|
+|[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[Go](go/quality-adjusted_life-year/main.go)|
 |[R2](https://open.kattis.com/problems/r2)|[Go](go/r2/main.go)|
 |[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[Go](go/rating_problems/main.go)|
 |[Relocation](https://open.kattis.com/problems/relocation)|[Go](go/relocation/main.go)|
@@ -104,3 +104,4 @@
 |[Two-sum](https://open.kattis.com/problems/twosum)|[Go](go/two-sum/main.go)|
 |[Which is Greater?](https://open.kattis.com/problems/whichisgreater)|[Rust](rust/which_is_greater/src/main.rs)|
 |[Zamka](https://open.kattis.com/problems/zamka)|[Go](go/zamka/main.go)|
+
