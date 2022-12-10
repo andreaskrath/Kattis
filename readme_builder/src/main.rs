@@ -14,7 +14,6 @@ fn main() {
     build_table(go_solutions);
 }
 
-// table builder
 fn build_table(solutions: Vec<Solution>) {
     let table_header = "|Problem Name|Language|\n";
     let table_orientation = "|:-:|:-:|\n";
