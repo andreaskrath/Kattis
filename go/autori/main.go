@@ -1,3 +1,6 @@
+// Autori
+// https://open.kattis.com/problems/autori
+
 package main
 
 import (

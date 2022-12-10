@@ -1,3 +1,6 @@
+// Grading
+// https://open.kattis.com/problems/grading
+
 package main
 
 import "fmt"

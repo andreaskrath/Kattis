@@ -1,3 +1,6 @@
+// Jumbo Javelin
+// https://open.kattis.com/problems/jumbojavelin
+
 package main
 
 import "fmt"

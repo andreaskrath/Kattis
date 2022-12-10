@@ -1,3 +1,6 @@
+// Bela
+// https://open.kattis.com/problems/bela
+
 package main
 
 import "fmt"

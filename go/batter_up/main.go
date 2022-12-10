@@ -1,3 +1,6 @@
+// Batter Up
+// https://open.kattis.com/problems/batterup
+
 package main
 
 import "fmt"

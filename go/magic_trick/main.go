@@ -1,3 +1,6 @@
+// Magic Trick
+// https://open.kattis.com/problems/magictrick
+
 package main
 
 import "fmt"

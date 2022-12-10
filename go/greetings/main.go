@@ -1,5 +1,5 @@
-// be aware, there are two "Greetings!" problems on Kattis
-// this is the solution to one of them.
+// Greetings!
+// https://open.kattis.com/problems/greetings2
 
 package main
 

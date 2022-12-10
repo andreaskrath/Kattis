@@ -1,3 +1,6 @@
+// ICPC Awards
+// https://open.kattis.com/problems/icpcawards
+
 package main
 
 import (

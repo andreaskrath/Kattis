@@ -1,3 +1,6 @@
+// Harshad Numbers
+// https://open.kattis.com/problems/harshadnumbers
+
 package main
 
 import (

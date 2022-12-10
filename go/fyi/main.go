@@ -1,3 +1,6 @@
+// FYI
+// https://open.kattis.com/problems/fyi
+
 package main
 
 import (

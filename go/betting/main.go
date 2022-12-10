@@ -1,3 +1,6 @@
+// Betting
+// https://open.kattis.com/problems/betting
+
 package main
 
 import "fmt"

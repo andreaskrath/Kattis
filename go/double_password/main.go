@@ -1,3 +1,6 @@
+// Double Password
+// https://open.kattis.com/problems/doublepassword
+
 package main
 
 import "fmt"

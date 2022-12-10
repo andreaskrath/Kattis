@@ -1,3 +1,6 @@
+// Cryptographer's Conundrum
+// https://open.kattis.com/problems/conundrum
+
 package main
 
 import "fmt"

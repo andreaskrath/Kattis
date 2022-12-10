@@ -1,3 +1,6 @@
+// Homework
+// https://open.kattis.com/problems/heimavinna
+
 package main
 
 import (

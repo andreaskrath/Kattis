@@ -1,3 +1,6 @@
+// Heart Rate
+// https://open.kattis.com/problems/heartrate
+
 package main
 
 import "fmt"

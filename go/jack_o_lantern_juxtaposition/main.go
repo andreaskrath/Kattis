@@ -1,3 +1,6 @@
+// Jack-O'-Lantern Juxtaposition
+// https://open.kattis.com/problems/jackolanternjuxtaposition
+
 package main
 
 import "fmt"

@@ -1,3 +1,6 @@
+// Encoded Message
+// https://open.kattis.com/problems/encodedmessage
+
 package main
 
 import (

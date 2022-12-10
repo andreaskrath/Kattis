@@ -1,6 +1,5 @@
-// be aware, there are two problems named "FizzBuzz" on Kattis.
-// this is the solution to one of them
-
+// FizzBuzz
+// https://open.kattis.com/problems/fizzbuzz
 package main
 
 import "fmt"

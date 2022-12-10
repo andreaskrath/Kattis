@@ -1,3 +1,6 @@
+// Kornislav
+// https://open.kattis.com/problems/kornislav
+
 package main
 
 import (

@@ -1,3 +1,6 @@
+// Ladder
+// https://open.kattis.com/problems/ladder
+
 package main
 
 import (

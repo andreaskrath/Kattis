@@ -1,3 +1,6 @@
+// Fifty Shades of Pink
+// https://open.kattis.com/problems/fiftyshades
+
 package main
 
 import (

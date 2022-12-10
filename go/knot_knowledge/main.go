@@ -1,3 +1,5 @@
+// Knot Knowledge
+// https://open.kattis.com/problems/knotknowledge
 package main
 
 import (

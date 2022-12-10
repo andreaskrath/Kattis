@@ -1,3 +1,6 @@
+// Chanukah Challenge
+// https://open.kattis.com/problems/chanukah
+
 package main
 
 import "fmt"

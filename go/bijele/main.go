@@ -1,3 +1,6 @@
+// Bijele
+// https://open.kattis.com/problems/bijele
+
 package main
 
 import "fmt"

@@ -1,3 +1,6 @@
+// Grass Seed Inc.
+// https://open.kattis.com/problems/grassseed
+
 package main
 
 import "fmt"

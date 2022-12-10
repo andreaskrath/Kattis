@@ -1,3 +1,6 @@
+// GCVWR
+// https://open.kattis.com/problems/gcvwr
+
 package main
 
 import "fmt"

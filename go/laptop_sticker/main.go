@@ -1,3 +1,5 @@
+// Laptop Sticker
+// https://open.kattis.com/problems/laptopsticker
 package main
 
 import "fmt"

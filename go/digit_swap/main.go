@@ -1,3 +1,6 @@
+// Digit Swap
+// https://open.kattis.com/problems/digitswap
+
 package main
 
 import "fmt"

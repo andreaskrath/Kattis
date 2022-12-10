@@ -1,3 +1,5 @@
+// Electrical Outlets
+// https://open.kattis.com/problems/electricaloutlets
 package main
 
 import "fmt"

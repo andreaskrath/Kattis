@@ -1,3 +1,6 @@
+// Job Expenses
+// https://open.kattis.com/problems/jobexpenses
+
 package main
 
 import "fmt"

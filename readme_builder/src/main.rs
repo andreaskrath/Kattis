@@ -1,13 +1,17 @@
+use glob::glob;
+mod solution;
+use solution::Solution;
 use std::{
     fs::{self, OpenOptions},
     io::Write,
 };
 
-use glob::glob;
-
 fn main() {
-    let rust_solutions = read_rust_solutions();
-    build_table(rust_solutions);
+    let mut rust_solutions = read_solutions("../rust/*/src/main.rs", "Rust");
+    let mut go_solutions = read_solutions("../go/*/main.go", "Go");
+    go_solutions.append(&mut rust_solutions);
+    go_solutions.sort_unstable_by_key(|s| s.name.clone());
+    build_table(go_solutions);
 }
 
 // table builder
@@ -29,12 +33,10 @@ fn build_table(solutions: Vec<Solution>) {
     }
 }
 
-// read golang dir
-
-fn read_rust_solutions() -> Vec<Solution> {
+fn read_solutions(file_pattern: &str, prog_lang: &str) -> Vec<Solution> {
     let mut solutions: Vec<Solution> = Vec::new();
 
-    for path in glob("../rust/*/src/main.rs").unwrap() {
+    for path in glob(file_pattern).unwrap() {
         let path = path.unwrap().into_os_string().into_string().unwrap();
         let file = fs::read_to_string(&path).unwrap();
         let lines: Vec<&str> = file.split('\n').collect();
@@ -45,36 +47,10 @@ fn read_rust_solutions() -> Vec<Solution> {
         solutions.push(Solution::new(
             name.to_string(),
             link.to_string(),
-            String::from("Rust"),
+            String::from(prog_lang),
             path.trim_start_matches("../").trim().to_string(),
         ));
     }
 
     solutions
-}
-
-#[derive(Debug)]
-struct Solution {
-    name: String,
-    link: String,
-    language: String,
-    path: String,
-}
-
-impl Solution {
-    fn new(name: String, link: String, language: String, path: String) -> Self {
-        Self {
-            name,
-            link,
-            language,
-            path,
-        }
-    }
-
-    fn to_table_string(&self) -> String {
-        format!(
-            "|[{}]({})|[{}]({})|\n",
-            self.name, self.link, self.language, self.path
-        )
-    }
 }

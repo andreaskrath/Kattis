@@ -1,3 +1,6 @@
+// Filip
+// https://open.kattis.com/problems/filip
+
 package main
 
 import (

@@ -1,3 +1,5 @@
+// Echo Echo Echo
+// https://open.kattis.com/problems/echoechoecho
 package main
 
 import "fmt"
