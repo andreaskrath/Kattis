@@ -1,3 +1,6 @@
+// Which is Greater?
+// https://open.kattis.com/problems/whichisgreater
+
 use std::io;
 
 fn main() {

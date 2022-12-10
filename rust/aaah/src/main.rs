@@ -1,3 +1,6 @@
+// Aaah!
+// https://open.kattis.com/problems/aaah
+
 use std::io::stdin;
 
 fn main() {

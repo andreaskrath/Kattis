@@ -1,3 +1,6 @@
+// Knight Packing
+// https://open.kattis.com/problems/knightpacking
+
 use std::io::stdin;
 
 fn main() {
@@ -8,6 +11,6 @@ fn main() {
     if num % 2 == 0 {
         println!("second");
     } else {
-        println!("first")
+        println!("first");
     }
 }

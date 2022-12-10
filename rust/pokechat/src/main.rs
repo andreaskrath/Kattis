@@ -1,3 +1,6 @@
+// Pokechat
+// https://open.kattis.com/problems/pokechat
+
 use std::io::stdin;
 
 fn main() {

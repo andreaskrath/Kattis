@@ -1,3 +1,6 @@
+// Above Average
+// https://open.kattis.com/problems/aboveaverage
+
 use std::{collections::VecDeque, io::stdin};
 
 fn main() {

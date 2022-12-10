@@ -1,3 +1,6 @@
+// Canadians, eh?
+// https://open.kattis.com/problems/canadianseh
+
 use std::io::stdin;
 
 fn main() {
