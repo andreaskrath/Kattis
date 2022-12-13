@@ -15,6 +15,7 @@
 |[Canadians, eh?](https://open.kattis.com/problems/canadianseh)|[Rust](rust/canadians_eh/src/main.rs)|
 |[Cetvrta](https://open.kattis.com/problems/cetvrta)|[Go](go/cetvrta/main.go)|
 |[Chanukah Challenge](https://open.kattis.com/problems/chanukah)|[Go](go/chanukah_challenge/main.go)|
+|[Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo)|[Rust](rust/coffee_cup_combo/src/main.rs)|
 |[Cold-puter Science](https://open.kattis.com/problems/cold)|[Go](go/cold-puter_science/main.go)|
 |[Count the Vowels](https://open.kattis.com/problems/countthevowels)|[Go](go/count_the_vowels/main.go)|
 |[Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)|[Go](go/cryptographers_conundrum/main.go)|
@@ -33,6 +34,7 @@
 |[Filip](https://open.kattis.com/problems/filip)|[Go](go/filip/main.go)|
 |[Finding An A](https://open.kattis.com/problems/findingana)|[Go](go/finding_an_a/main.go)|
 |[FizzBuzz](https://open.kattis.com/problems/fizzbuzz)|[Go](go/fizzbuzz/main.go)|
+|[Free Food](https://open.kattis.com/problems/freefood)|[Rust](rust/free_food/src/main.rs)|
 |[GCVWR](https://open.kattis.com/problems/gcvwr)|[Go](go/gcvwr/main.go)|
 |[Grading](https://open.kattis.com/problems/grading)|[Go](go/grading/main.go)|
 |[Grass Seed Inc.](https://open.kattis.com/problems/grassseed)|[Go](go/grass_seed_inc/main.go)|
@@ -104,4 +106,3 @@
 |[Two-sum](https://open.kattis.com/problems/twosum)|[Go](go/two-sum/main.go)|
 |[Which is Greater?](https://open.kattis.com/problems/whichisgreater)|[Rust](rust/which_is_greater/src/main.rs)|
 |[Zamka](https://open.kattis.com/problems/zamka)|[Go](go/zamka/main.go)|
-
