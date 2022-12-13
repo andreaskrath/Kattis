@@ -1,5 +1,6 @@
 |Problem Name|Language|
 |:-:|:-:|
+|[A Real Challenge](https://open.kattis.com/problems/areal)|[Rust](rust/a_real_challenge/src/main.rs)|
 |[ABC](https://open.kattis.com/problems/abc)|[Rust](rust/abc/src/main.rs)|
 |[Aaah!](https://open.kattis.com/problems/aaah)|[Rust](rust/aaah/src/main.rs)|
 |[Above Average](https://open.kattis.com/problems/aboveaverage)|[Rust](rust/above_average/src/main.rs)|
@@ -11,6 +12,7 @@
 |[Bela](https://open.kattis.com/problems/bela)|[Go](go/bela/main.go)|
 |[Betting](https://open.kattis.com/problems/betting)|[Go](go/betting/main.go)|
 |[Bijele](https://open.kattis.com/problems/bijele)|[Go](go/bijele/main.go)|
+|[Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering)|[Rust](rust/birthday_memorization/src/main.rs)|
 |[CPR Number](https://open.kattis.com/problems/cprnummer)|[Go](go/cpr_nummer/main.go)|
 |[Canadians, eh?](https://open.kattis.com/problems/canadianseh)|[Rust](rust/canadians_eh/src/main.rs)|
 |[Cetvrta](https://open.kattis.com/problems/cetvrta)|[Go](go/cetvrta/main.go)|
