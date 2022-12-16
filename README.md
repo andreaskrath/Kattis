@@ -6,6 +6,7 @@
 |[Above Average](https://open.kattis.com/problems/aboveaverage)|[Rust](rust/above_average/src/main.rs)|
 |[Alphabet Spam](https://open.kattis.com/problems/alphabetspam)|[Go](go/alphabet_spam/main.go)|
 |[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|[Go](go/apaxians/main.go)|
+|[Arrangement](https://open.kattis.com/problems/upprodun)|[Rust](rust/arrangement/src/main.rs)|
 |[Autori](https://open.kattis.com/problems/autori)|[Go](go/autori/main.go)|
 |[Avion](https://open.kattis.com/problems/avion)|[Go](go/avion/main.go)|
 |[Batter Up](https://open.kattis.com/problems/batterup)|[Go](go/batter_up/main.go)|
