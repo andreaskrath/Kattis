@@ -17,7 +17,7 @@ fn main() {
     let result = make_birthday_list(&input);
     println!("{}", result.len());
     for name in result {
-        println!("{}", name);
+        println!("{name}");
     }
 }
 
