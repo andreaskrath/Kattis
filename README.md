@@ -30,6 +30,7 @@
 |[Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)|[Go](go/echo_echo_echo/main.go)|
 |[Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)|[Go](go/electrical_outlets/main.go)|
 |[Encoded Message](https://open.kattis.com/problems/encodedmessage)|[Go](go/encoded_message/main.go)|
+|[Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle)|[Rust](rust/estimating_the_area_of_a_circle/src/main.rs)|
 |[Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)|[Go](go/eye_of_sauron/main.go)|
 |[FYI](https://open.kattis.com/problems/fyi)|[Go](go/fyi/main.go)|
 |[Faktor](https://open.kattis.com/problems/faktor)|[Go](go/faktor/main.go)|
