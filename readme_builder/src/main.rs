@@ -16,7 +16,7 @@ fn main() {
     let end_files_lines = fs::metadata("../README.md").unwrap().len();
 
     println!(
-        "{} new lines were added to the README.md.",
+        "{} bytes were added to the README.md.",
         end_files_lines - start_file_lines
     );
 }
