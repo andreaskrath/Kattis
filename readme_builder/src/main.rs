@@ -7,13 +7,13 @@ use std::{
 };
 
 fn main() {
-    let start_file_lines = include_str!("../../README.md").split('\n').count();
+    let start_file_lines = fs::metadata("../README.md").unwrap().len();
     let mut rust_solutions = read_solutions("../rust/*/src/main.rs", "Rust");
     let mut go_solutions = read_solutions("../go/*/main.go", "Go");
     go_solutions.append(&mut rust_solutions);
     go_solutions.sort_unstable_by_key(|s| s.name.clone());
     build_table(go_solutions);
-    let end_files_lines = include_str!("../../README.md").split('\n').count();
+    let end_files_lines = fs::metadata("../README.md").unwrap().len();
 
     println!(
         "{} new lines were added to the README.md.",
