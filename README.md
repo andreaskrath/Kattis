@@ -57,6 +57,7 @@
 |[Job Expenses](https://open.kattis.com/problems/jobexpenses)|[Go](go/job_expenses/main.go)|
 |[Judging Moose](https://open.kattis.com/problems/judgingmoose)|[Go](go/judging_moose/main.go)|
 |[Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin)|[Go](go/jumbo_javelin/main.go)|
+|[Keylogger](https://open.kattis.com/problems/keylogger)|[Rust](rust/keylogger/src/main.rs)|
 |[Knight Packing](https://open.kattis.com/problems/knightpacking)|[Rust](rust/knight_packing/src/main.rs)|
 |[Knot Knowledge](https://open.kattis.com/problems/knotknowledge)|[Go](go/knot_knowledge/main.go)|
 |[Kornislav](https://open.kattis.com/problems/kornislav)|[Go](go/kornislav/main.go)|
