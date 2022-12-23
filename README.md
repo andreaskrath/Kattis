@@ -72,6 +72,7 @@
 |[No Duplicates](https://open.kattis.com/problems/nodup)|[Go](go/no_duplicates/main.go)|
 |[Number Fun](https://open.kattis.com/problems/numberfun)|[Go](go/number_fun/main.go)|
 |[Odd Echo](https://open.kattis.com/problems/oddecho)|[Go](go/odd_echo/main.go)|
+|[Odd Man Out](https://open.kattis.com/problems/oddmanout)|[Rust](rust/odd_man_out/src/main.rs)|
 |[Oddities](https://open.kattis.com/problems/oddities)|[Go](go/oddities/main.go)|
 |[Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)|[Go](go/piece_of_cake/main.go)|
 |[Planina](https://open.kattis.com/problems/planina)|[Go](go/planina/main.go)|
