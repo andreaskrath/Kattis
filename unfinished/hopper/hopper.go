@@ -1,3 +1,6 @@
+// Hopper
+// https://open.kattis.com/problems/hopper
+
 package main
 
 import (
