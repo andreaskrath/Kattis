@@ -1,5 +1,6 @@
 |Problem Name|Language|
 |:-:|:-:|
+|[A Different Problem](https://open.kattis.com/problems/different)|[Rust](rust/a_different_problem/src/main.rs)|
 |[A Real Challenge](https://open.kattis.com/problems/areal)|[Rust](rust/a_real_challenge/src/main.rs)|
 |[ABC](https://open.kattis.com/problems/abc)|[Rust](rust/abc/src/main.rs)|
 |[Aaah!](https://open.kattis.com/problems/aaah)|[Rust](rust/aaah/src/main.rs)|
