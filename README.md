@@ -82,6 +82,7 @@
 |[Poker Hand](https://open.kattis.com/problems/pokerhand)|[Go](go/poker_hand/main.go)|
 |[Pot](https://open.kattis.com/problems/pot)|[Go](go/pot/main.go)|
 |[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|[Go](go/provinces_and_gold/main.go)|
+|[Prsteni](https://open.kattis.com/problems/prsteni)|[Rust](rust/prsteni/src/main.rs)|
 |[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[Go](go/quality-adjusted_life-year/main.go)|
 |[Quick Estimates](https://open.kattis.com/problems/quickestimate)|[Rust](rust/quick_estimates/src/main.rs)|
 |[R2](https://open.kattis.com/problems/r2)|[Go](go/r2/main.go)|
