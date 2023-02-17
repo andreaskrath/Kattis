@@ -1,5 +1,6 @@
 |Problem Name|Language|
 |:-:|:-:|
+|[A Different Problem](https://open.kattis.com/problems/different)|[Rust](rust/a_different_problem/src/main.rs)|
 |[A Real Challenge](https://open.kattis.com/problems/areal)|[Rust](rust/a_real_challenge/src/main.rs)|
 |[ABC](https://open.kattis.com/problems/abc)|[Rust](rust/abc/src/main.rs)|
 |[Aaah!](https://open.kattis.com/problems/aaah)|[Rust](rust/aaah/src/main.rs)|
@@ -66,6 +67,7 @@
 |[Ladder](https://open.kattis.com/problems/ladder)|[Go](go/ladder/main.go)|
 |[Laptop Sticker](https://open.kattis.com/problems/laptopsticker)|[Go](go/laptop_sticker/main.go)|
 |[Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)|[Go](go/last_factorial_digit/main.go)|
+|[Lost Lineup](https://open.kattis.com/problems/lostlineup)|[Rust](rust/lost_lineup/src/main.rs)|
 |[Magic Trick](https://open.kattis.com/problems/magictrick)|[Go](go/magic_trick/main.go)|
 |[Metronome](https://open.kattis.com/problems/metronome)|[Rust](rust/metronome/src/main.rs)|
 |[Modulo](https://open.kattis.com/problems/modulo)|[Go](go/modulo/main.go)|
@@ -74,6 +76,7 @@
 |[No Duplicates](https://open.kattis.com/problems/nodup)|[Go](go/no_duplicates/main.go)|
 |[Number Fun](https://open.kattis.com/problems/numberfun)|[Go](go/number_fun/main.go)|
 |[Odd Echo](https://open.kattis.com/problems/oddecho)|[Go](go/odd_echo/main.go)|
+|[Odd Man Out](https://open.kattis.com/problems/oddmanout)|[Rust](rust/odd_man_out/src/main.rs)|
 |[Oddities](https://open.kattis.com/problems/oddities)|[Go](go/oddities/main.go)|
 |[Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)|[Go](go/piece_of_cake/main.go)|
 |[Planina](https://open.kattis.com/problems/planina)|[Go](go/planina/main.go)|
@@ -81,9 +84,11 @@
 |[Poker Hand](https://open.kattis.com/problems/pokerhand)|[Go](go/poker_hand/main.go)|
 |[Pot](https://open.kattis.com/problems/pot)|[Go](go/pot/main.go)|
 |[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|[Go](go/provinces_and_gold/main.go)|
+|[Prsteni](https://open.kattis.com/problems/prsteni)|[Rust](rust/prsteni/src/main.rs)|
 |[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[Go](go/quality-adjusted_life-year/main.go)|
 |[Quick Estimates](https://open.kattis.com/problems/quickestimate)|[Rust](rust/quick_estimates/src/main.rs)|
 |[R2](https://open.kattis.com/problems/r2)|[Go](go/r2/main.go)|
+|[Railroad](https://open.kattis.com/problems/railroad2)|[Rust](rust/railroad/src/main.rs)|
 |[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[Go](go/rating_problems/main.go)|
 |[Relocation](https://open.kattis.com/problems/relocation)|[Go](go/relocation/main.go)|
 |[Reverse](https://open.kattis.com/problems/ofugsnuid)|[Go](go/reverse/main.go)|
