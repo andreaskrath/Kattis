@@ -19,6 +19,7 @@
 |[Canadians, eh?](https://open.kattis.com/problems/canadianseh)|[Rust](rust/canadians_eh/src/main.rs)|
 |[Cetvrta](https://open.kattis.com/problems/cetvrta)|[Go](go/cetvrta/main.go)|
 |[Chanukah Challenge](https://open.kattis.com/problems/chanukah)|[Go](go/chanukah_challenge/main.go)|
+|[Class Field Trip](https://open.kattis.com/problems/classfieldtrip)|[Rust](rust/class_field_trip/src/main.rs)|
 |[Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo)|[Rust](rust/coffee_cup_combo/src/main.rs)|
 |[Cold-puter Science](https://open.kattis.com/problems/cold)|[Go](go/cold-puter_science/main.go)|
 |[Count the Vowels](https://open.kattis.com/problems/countthevowels)|[Go](go/count_the_vowels/main.go)|
@@ -66,6 +67,7 @@
 |[Laptop Sticker](https://open.kattis.com/problems/laptopsticker)|[Go](go/laptop_sticker/main.go)|
 |[Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)|[Go](go/last_factorial_digit/main.go)|
 |[Magic Trick](https://open.kattis.com/problems/magictrick)|[Go](go/magic_trick/main.go)|
+|[Metronome](https://open.kattis.com/problems/metronome)|[Rust](rust/metronome/src/main.rs)|
 |[Modulo](https://open.kattis.com/problems/modulo)|[Go](go/modulo/main.go)|
 |[N-sum](https://open.kattis.com/problems/nsum)|[Go](go/n-sum/main.go)|
 |[Nasty Hands](https://open.kattis.com/problems/nastyhacks)|[Go](go/nasty_hacks/main.go)|

@@ -23,40 +23,40 @@ fn calc_key_presses(input: &[String]) -> String {
     let mut shift_pressed: bool = false;
 
     for key in input.iter().map(|s| s.trim()).collect::<Vec<&str>>() {
-        let mut letter: char = match key.trim() {
-            "clank" => 'a',
-            "bong" => 'b',
-            "click" => 'c',
-            "tap" => 'd',
-            "poing" => 'e',
-            "clonk" => 'f',
-            "clack" => 'g',
-            "ping" => 'h',
-            "tip" => 'i',
-            "cloing" => 'j',
-            "tic" => 'k',
-            "cling" => 'l',
-            "bing" => 'm',
-            "pong" => 'n',
-            "clang" => 'o',
-            "pang" => 'p',
-            "clong" => 'q',
-            "tac" => 'r',
-            "boing" => 's',
-            "boink" => 't',
-            "cloink" => 'u',
-            "rattle" => 'v',
-            "clock" => 'w',
-            "toc" => 'x',
-            "clink" => 'y',
-            "tuc" => 'z',
-            "whack" => ' ',
+        let mut letter: char = match key.trim().as_bytes() {
+            b"clank" => 'a',
+            b"bong" => 'b',
+            b"click" => 'c',
+            b"tap" => 'd',
+            b"poing" => 'e',
+            b"clonk" => 'f',
+            b"clack" => 'g',
+            b"ping" => 'h',
+            b"tip" => 'i',
+            b"cloing" => 'j',
+            b"tic" => 'k',
+            b"cling" => 'l',
+            b"bing" => 'm',
+            b"pong" => 'n',
+            b"clang" => 'o',
+            b"pang" => 'p',
+            b"clong" => 'q',
+            b"tac" => 'r',
+            b"boing" => 's',
+            b"boink" => 't',
+            b"cloink" => 'u',
+            b"rattle" => 'v',
+            b"clock" => 'w',
+            b"toc" => 'x',
+            b"clink" => 'y',
+            b"tuc" => 'z',
+            b"whack" => ' ',
             // Special key presses
-            "pop" => {
+            b"pop" => {
                 output.pop();
                 continue;
             }
-            "bump" => {
+            b"bump" => {
                 if is_caps_lock {
                     is_caps_lock = false;
                     continue;
@@ -64,11 +64,11 @@ fn calc_key_presses(input: &[String]) -> String {
                 is_caps_lock = true;
                 continue;
             }
-            "dink" => {
+            b"dink" => {
                 shift_pressed = true;
                 continue;
             }
-            "thumb" => {
+            b"thumb" => {
                 shift_pressed = false;
                 continue;
             }
