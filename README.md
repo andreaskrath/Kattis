@@ -5,6 +5,7 @@
 |[ABC](https://open.kattis.com/problems/abc)|[Rust](rust/abc/src/main.rs)|
 |[Aaah!](https://open.kattis.com/problems/aaah)|[Rust](rust/aaah/src/main.rs)|
 |[Above Average](https://open.kattis.com/problems/aboveaverage)|[Rust](rust/above_average/src/main.rs)|
+|[Adding Trouble](https://open.kattis.com/problems/addingtrouble)|[Rust](rust/adding_trouble/src/main.rs)|
 |[Alphabet Spam](https://open.kattis.com/problems/alphabetspam)|[Go](go/alphabet_spam/main.go)|
 |[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|[Go](go/apaxians/main.go)|
 |[Arrangement](https://open.kattis.com/problems/upprodun)|[Rust](rust/arrangement/src/main.rs)|
