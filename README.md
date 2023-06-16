@@ -37,6 +37,7 @@
 |[Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle)|[Rust](rust/estimating_the_area_of_a_circle/src/main.rs)|
 |[Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)|[Go](go/eye_of_sauron/main.go)|
 |[FYI](https://open.kattis.com/problems/fyi)|[Go](go/fyi/main.go)|
+|[Fading Wind](https://open.kattis.com/problems/fadingwind)|[Rust](rust/fading_wind/src/main.rs)|
 |[Faktor](https://open.kattis.com/problems/faktor)|[Go](go/faktor/main.go)|
 |[Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades)|[Go](go/fifty_shades_of_pink/main.go)|
 |[Filip](https://open.kattis.com/problems/filip)|[Go](go/filip/main.go)|
