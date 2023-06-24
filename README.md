@@ -89,6 +89,7 @@
 |[Prsteni](https://open.kattis.com/problems/prsteni)|[Rust](rust/prsteni/src/main.rs)|
 |[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[Go](go/quality-adjusted_life-year/main.go)|
 |[Quick Estimates](https://open.kattis.com/problems/quickestimate)|[Rust](rust/quick_estimates/src/main.rs)|
+|[R2](https://open.kattis.com/problems/r2)|[Rust](rust/r2/src/main.rs)|
 |[R2](https://open.kattis.com/problems/r2)|[Go](go/r2/main.go)|
 |[Railroad](https://open.kattis.com/problems/railroad2)|[Rust](rust/railroad/src/main.rs)|
 |[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[Go](go/rating_problems/main.go)|
