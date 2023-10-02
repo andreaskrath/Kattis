@@ -7,6 +7,7 @@
 |[Above Average](https://open.kattis.com/problems/aboveaverage)|[Rust](rust/above_average/src/main.rs)|
 |[Adding Trouble](https://open.kattis.com/problems/addingtrouble)|[Rust](rust/adding_trouble/src/main.rs)|
 |[Alphabet Spam](https://open.kattis.com/problems/alphabetspam)|[Go](go/alphabet_spam/main.go)|
+|[Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur)|[Rust](rust/ameriskur_vinnustadur/src/main.rs)|
 |[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|[Go](go/apaxians/main.go)|
 |[Arrangement](https://open.kattis.com/problems/upprodun)|[Rust](rust/arrangement/src/main.rs)|
 |[Array Smoothening](https://open.kattis.com/problems/arraysmoothening)|[Rust](rust/array_smoothening/src/main.rs)|
@@ -92,8 +93,8 @@
 |[Prsteni](https://open.kattis.com/problems/prsteni)|[Rust](rust/prsteni/src/main.rs)|
 |[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[Go](go/quality-adjusted_life-year/main.go)|
 |[Quick Estimates](https://open.kattis.com/problems/quickestimate)|[Rust](rust/quick_estimates/src/main.rs)|
-|[R2](https://open.kattis.com/problems/r2)|[Rust](rust/r2/src/main.rs)|
 |[R2](https://open.kattis.com/problems/r2)|[Go](go/r2/main.go)|
+|[R2](https://open.kattis.com/problems/r2)|[Rust](rust/r2/src/main.rs)|
 |[Railroad](https://open.kattis.com/problems/railroad2)|[Rust](rust/railroad/src/main.rs)|
 |[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[Go](go/rating_problems/main.go)|
 |[Relocation](https://open.kattis.com/problems/relocation)|[Go](go/relocation/main.go)|
