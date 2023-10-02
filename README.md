@@ -55,6 +55,7 @@
 |[Hello World!](https://open.kattis.com/problems/hello)|[Go](go/hello_world/main.go)|
 |[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)|[Go](go/hissing_microphone/main.go)|
 |[Homework](https://open.kattis.com/problems/heimavinna)|[Go](go/homework/main.go)|
+|[Hraðgreining](https://open.kattis.com/problems/hradgreining)|[Rust](rust/hradgreining/src/main.rs)|
 |[I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)|[Go](go/ive_been_everywhere_man/main.go)|
 |[ICPC Awards](https://open.kattis.com/problems/icpcawards)|[Go](go/icpc_awards/main.go)|
 |[IsItHalloween.com](https://open.kattis.com/problems/isithalloween)|[Go](go/isithalloween.com/main.go)|
