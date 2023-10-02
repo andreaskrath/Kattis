@@ -69,6 +69,7 @@
 |[Ladder](https://open.kattis.com/problems/ladder)|[Go](go/ladder/main.go)|
 |[Laptop Sticker](https://open.kattis.com/problems/laptopsticker)|[Go](go/laptop_sticker/main.go)|
 |[Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)|[Go](go/last_factorial_digit/main.go)|
+|[Leggja saman](https://open.kattis.com/problems/leggjasaman)|[Rust](rust/leggja_saman/src/main.rs)|
 |[Lost Lineup](https://open.kattis.com/problems/lostlineup)|[Rust](rust/lost_lineup/src/main.rs)|
 |[Magic Trick](https://open.kattis.com/problems/magictrick)|[Go](go/magic_trick/main.go)|
 |[Metronome](https://open.kattis.com/problems/metronome)|[Rust](rust/metronome/src/main.rs)|
