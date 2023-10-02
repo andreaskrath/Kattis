@@ -110,6 +110,7 @@
 |[Spavanac](https://open.kattis.com/problems/spavanac)|[Go](go/spavanac/main.go)|
 |[Speed Limit](https://open.kattis.com/problems/speedlimit)|[Go](go/speed_limit/main.go)|
 |[Speeding](https://open.kattis.com/problems/speeding)|[Go](go/speeding/main.go)|
+|[Spritt](https://open.kattis.com/problems/spritt)|[Rust](rust/spritt/src/main.rs)|
 |[Stacking Cups](https://open.kattis.com/problems/cups)|[Rust](rust/stacking_cups/src/main.rs)|
 |[Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)|[Go](go/stand_on_zanzibar/main.go)|
 |[Stopwatch](https://open.kattis.com/problems/stopwatch)|[Go](go/stopwatch/main.go)|
