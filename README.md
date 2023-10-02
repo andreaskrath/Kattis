@@ -129,6 +129,7 @@
 |[Two-sum](https://open.kattis.com/problems/twosum)|[Go](go/two-sum/main.go)|
 |[Undead or Alive](https://open.kattis.com/problems/undeadoralive)|[Rust](rust/undead_or_alive/src/main.rs)|
 |[Velkomin!](https://open.kattis.com/problems/velkomin)|[Rust](rust/velkomin/src/main.rs)|
+|[Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)|[Rust](rust/vidsnuningur/src/main.rs)|
 |[Which is Greater?](https://open.kattis.com/problems/whichisgreater)|[Rust](rust/which_is_greater/src/main.rs)|
 |[Zamka](https://open.kattis.com/problems/zamka)|[Go](go/zamka/main.go)|
 |[Óvissa](https://open.kattis.com/problems/ovissa)|[Rust](rust/ovissa/src/main.rs)|
