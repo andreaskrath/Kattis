@@ -116,6 +116,7 @@
 |[Speeding](https://open.kattis.com/problems/speeding)|[Go](go/speeding/main.go)|
 |[Spritt](https://open.kattis.com/problems/spritt)|[Rust](rust/spritt/src/main.rs)|
 |[Stacking Cups](https://open.kattis.com/problems/cups)|[Rust](rust/stacking_cups/src/main.rs)|
+|[Stafur](https://open.kattis.com/problems/stafur)|[Rust](rust/stafur/src/main.rs)|
 |[Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)|[Go](go/stand_on_zanzibar/main.go)|
 |[Stopwatch](https://open.kattis.com/problems/stopwatch)|[Go](go/stopwatch/main.go)|
 |[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)|[Go](go/stuck_in_a_time_loop/main.go)|
