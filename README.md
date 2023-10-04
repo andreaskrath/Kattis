@@ -33,6 +33,7 @@
 |[Digit Swap](https://open.kattis.com/problems/digitswap)|[Go](go/digit_swap/main.go)|
 |[Double Password](https://open.kattis.com/problems/doublepassword)|[Go](go/double_password/main.go)|
 |[Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)|[Go](go/echo_echo_echo/main.go)|
+|[Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi)|[Rust](rust/ekki_daudi_opna_inni/src/main.rs)|
 |[Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)|[Go](go/electrical_outlets/main.go)|
 |[Encoded Message](https://open.kattis.com/problems/encodedmessage)|[Go](go/encoded_message/main.go)|
 |[Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle)|[Rust](rust/estimating_the_area_of_a_circle/src/main.rs)|
@@ -93,8 +94,8 @@
 |[Prsteni](https://open.kattis.com/problems/prsteni)|[Rust](rust/prsteni/src/main.rs)|
 |[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[Go](go/quality-adjusted_life-year/main.go)|
 |[Quick Estimates](https://open.kattis.com/problems/quickestimate)|[Rust](rust/quick_estimates/src/main.rs)|
-|[R2](https://open.kattis.com/problems/r2)|[Go](go/r2/main.go)|
 |[R2](https://open.kattis.com/problems/r2)|[Rust](rust/r2/src/main.rs)|
+|[R2](https://open.kattis.com/problems/r2)|[Go](go/r2/main.go)|
 |[Railroad](https://open.kattis.com/problems/railroad2)|[Rust](rust/railroad/src/main.rs)|
 |[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[Go](go/rating_problems/main.go)|
 |[Relocation](https://open.kattis.com/problems/relocation)|[Go](go/relocation/main.go)|
