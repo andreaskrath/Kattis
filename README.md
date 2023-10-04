@@ -52,6 +52,7 @@
 |[Grading](https://open.kattis.com/problems/grading)|[Go](go/grading/main.go)|
 |[Grass Seed Inc.](https://open.kattis.com/problems/grassseed)|[Go](go/grass_seed_inc/main.go)|
 |[Greetings!](https://open.kattis.com/problems/greetings2)|[Go](go/greetings/main.go)|
+|[Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout)|[Rust](rust/hanging_out_on_the_terrace/src/main.rs)|
 |[Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)|[Go](go/harshad_numbers/main.go)|
 |[Heart Rate](https://open.kattis.com/problems/heartrate)|[Go](go/heart_rate/main.go)|
 |[Hello World!](https://open.kattis.com/problems/hello)|[Go](go/hello_world/main.go)|
@@ -94,8 +95,8 @@
 |[Prsteni](https://open.kattis.com/problems/prsteni)|[Rust](rust/prsteni/src/main.rs)|
 |[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[Go](go/quality-adjusted_life-year/main.go)|
 |[Quick Estimates](https://open.kattis.com/problems/quickestimate)|[Rust](rust/quick_estimates/src/main.rs)|
-|[R2](https://open.kattis.com/problems/r2)|[Rust](rust/r2/src/main.rs)|
 |[R2](https://open.kattis.com/problems/r2)|[Go](go/r2/main.go)|
+|[R2](https://open.kattis.com/problems/r2)|[Rust](rust/r2/src/main.rs)|
 |[Railroad](https://open.kattis.com/problems/railroad2)|[Rust](rust/railroad/src/main.rs)|
 |[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[Go](go/rating_problems/main.go)|
 |[Relocation](https://open.kattis.com/problems/relocation)|[Go](go/relocation/main.go)|
