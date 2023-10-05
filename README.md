@@ -27,6 +27,7 @@
 |[Cold-puter Science](https://open.kattis.com/problems/cold)|[Go](go/cold-puter_science/main.go)|
 |[Count the Vowels](https://open.kattis.com/problems/countthevowels)|[Go](go/count_the_vowels/main.go)|
 |[Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)|[Go](go/cryptographers_conundrum/main.go)|
+|[Cut the Negativity](https://open.kattis.com/problems/cutthenegativity)|[Rust](rust/cut_the_negativity/src/main.rs)|
 |[DRM Messages](https://open.kattis.com/problems/drmmessages)|[Rust](rust/drm_messages/src/main.rs)|
 |[Datum](https://open.kattis.com/problems/datum)|[Go](go/datum/main.go)|
 |[Detailed Differences](https://open.kattis.com/problems/detaileddifferences)|[Go](go/detailed_differences/main.go)|
@@ -97,8 +98,8 @@
 |[Prsteni](https://open.kattis.com/problems/prsteni)|[Rust](rust/prsteni/src/main.rs)|
 |[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[Go](go/quality-adjusted_life-year/main.go)|
 |[Quick Estimates](https://open.kattis.com/problems/quickestimate)|[Rust](rust/quick_estimates/src/main.rs)|
-|[R2](https://open.kattis.com/problems/r2)|[Go](go/r2/main.go)|
 |[R2](https://open.kattis.com/problems/r2)|[Rust](rust/r2/src/main.rs)|
+|[R2](https://open.kattis.com/problems/r2)|[Go](go/r2/main.go)|
 |[Railroad](https://open.kattis.com/problems/railroad2)|[Rust](rust/railroad/src/main.rs)|
 |[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[Go](go/rating_problems/main.go)|
 |[Relocation](https://open.kattis.com/problems/relocation)|[Go](go/relocation/main.go)|
