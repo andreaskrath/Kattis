@@ -129,6 +129,7 @@
 |[Tarifa](https://open.kattis.com/problems/tarifa)|[Go](go/tarifa/main.go)|
 |[Tetration](https://open.kattis.com/problems/tetration)|[Go](go/tetration/main.go)|
 |[The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2)|[Go](go/the_amazing_human_cannonball/main.go)|
+|[The Bus Card](https://open.kattis.com/problems/busskortet)|[Rust](rust/the_bus_card/src/main.rs)|
 |[The Easiest Problem Is This One](https://open.kattis.com/problems/easiest)|[Rust](rust/the_easiest_problem_is_this_one/src/main.rs)|
 |[Transit Woes](https://open.kattis.com/problems/transitwoes)|[Go](go/transit_woes/main.go)|
 |[Triangle Area](https://open.kattis.com/problems/triarea)|[Go](go/triangle_area/main.go)|
