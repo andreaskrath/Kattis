@@ -1,10 +1,11 @@
 use glob::glob;
-mod solution;
 use solution::Solution;
 use std::{
     fs::{self, OpenOptions},
     io::Write,
 };
+
+mod solution;
 
 fn main() {
     let start_file_lines = fs::read_to_string("../README.md")
