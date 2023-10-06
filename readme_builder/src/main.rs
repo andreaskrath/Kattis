@@ -54,6 +54,10 @@ fn read_solutions(file_pattern: &str, prog_lang: &str) -> Vec<Solution> {
         let file = fs::read_to_string(&path).unwrap();
         let lines: Vec<&str> = file.split('\n').collect();
 
+        if !lines[0].starts_with("// ") || !lines[1].starts_with("// https") {
+            panic!("something is wrong with meta in {path}");
+        }
+
         let name = lines[0].trim_start_matches("//").trim();
         let link = lines[1].trim_start_matches("//").trim();
 
