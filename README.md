@@ -98,8 +98,8 @@
 |[Prsteni](https://open.kattis.com/problems/prsteni)|[Rust](rust/prsteni/src/main.rs)|
 |[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[Go](go/quality-adjusted_life-year/main.go)|
 |[Quick Estimates](https://open.kattis.com/problems/quickestimate)|[Rust](rust/quick_estimates/src/main.rs)|
-|[R2](https://open.kattis.com/problems/r2)|[Rust](rust/r2/src/main.rs)|
 |[R2](https://open.kattis.com/problems/r2)|[Go](go/r2/main.go)|
+|[R2](https://open.kattis.com/problems/r2)|[Rust](rust/r2/src/main.rs)|
 |[Railroad](https://open.kattis.com/problems/railroad2)|[Rust](rust/railroad/src/main.rs)|
 |[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[Go](go/rating_problems/main.go)|
 |[Relocation](https://open.kattis.com/problems/relocation)|[Go](go/relocation/main.go)|
@@ -112,6 +112,7 @@
 |[Sibice](https://open.kattis.com/problems/sibice)|[Go](go/sibice/main.go)|
 |[Simon Says](https://open.kattis.com/problems/simonsays)|[Go](go/simon_says/main.go)|
 |[Solving for Carrots](https://open.kattis.com/problems/carrots)|[Go](go/solving_for_carrots/main.go)|
+|[Songbook](https://open.kattis.com/problems/sangbok)|[Rust](rust/songbook/src/main.rs)|
 |[Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers)|[Go](go/sort_two_numbers/main.go)|
 |[Spavanac](https://open.kattis.com/problems/spavanac)|[Go](go/spavanac/main.go)|
 |[Speed Limit](https://open.kattis.com/problems/speedlimit)|[Go](go/speed_limit/main.go)|
