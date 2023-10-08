@@ -25,6 +25,7 @@
 |[Class Field Trip](https://open.kattis.com/problems/classfieldtrip)|[Rust](rust/class_field_trip/src/main.rs)|
 |[Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo)|[Rust](rust/coffee_cup_combo/src/main.rs)|
 |[Cold-puter Science](https://open.kattis.com/problems/cold)|[Go](go/cold-puter_science/main.go)|
+|[Conformity](https://open.kattis.com/problems/conformity)|[Rust](rust/conformity/src/main.rs)|
 |[Count the Vowels](https://open.kattis.com/problems/countthevowels)|[Go](go/count_the_vowels/main.go)|
 |[Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)|[Go](go/cryptographers_conundrum/main.go)|
 |[Cut the Negativity](https://open.kattis.com/problems/cutthenegativity)|[Rust](rust/cut_the_negativity/src/main.rs)|
