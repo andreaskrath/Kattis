@@ -143,4 +143,5 @@
 |[Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)|[Rust](rust/vidsnuningur/src/main.rs)|
 |[Which is Greater?](https://open.kattis.com/problems/whichisgreater)|[Rust](rust/which_is_greater/src/main.rs)|
 |[Zamka](https://open.kattis.com/problems/zamka)|[Go](go/zamka/main.go)|
+|[Á leið í bíó](https://open.kattis.com/problems/aleidibio)|[Go](go/a_leid_i_bio/main.go)|
 |[Óvissa](https://open.kattis.com/problems/ovissa)|[Rust](rust/ovissa/src/main.rs)|
