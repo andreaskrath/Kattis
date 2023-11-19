@@ -30,3 +30,8 @@ debug/
 
 # Go workspace file
 go.work
+
+# Nix things
+shell.nix
+.envrc
+.direnv
