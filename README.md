@@ -139,6 +139,7 @@
 |[Trik](https://open.kattis.com/problems/trik)|[Go](go/trik/main.go)|
 |[Turn It Up!](https://open.kattis.com/problems/skruop)|[Go](go/turn_it_up/main.go)|
 |[Two-sum](https://open.kattis.com/problems/twosum)|[Go](go/two-sum/main.go)|
+|[Tölvunarfræðingar telja](https://open.kattis.com/problems/tolvunarfraedingartelja)|[Rust](rust/tolvunarfraedingar_telja/src/main.rs)|
 |[Undead or Alive](https://open.kattis.com/problems/undeadoralive)|[Rust](rust/undead_or_alive/src/main.rs)|
 |[Velkomin!](https://open.kattis.com/problems/velkomin)|[Rust](rust/velkomin/src/main.rs)|
 |[Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)|[Rust](rust/vidsnuningur/src/main.rs)|
