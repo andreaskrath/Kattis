@@ -81,6 +81,7 @@
 |[Lost Lineup](https://open.kattis.com/problems/lostlineup)|[Rust](rust/lost_lineup/src/main.rs)|
 |[Magic Trick](https://open.kattis.com/problems/magictrick)|[Go](go/magic_trick/main.go)|
 |[Metronome](https://open.kattis.com/problems/metronome)|[Rust](rust/metronome/src/main.rs)|
+|[Millifærsla](https://open.kattis.com/problems/millifaersla)|[Rust](rust/millifaersla/src/main.rs)|
 |[Modulo](https://open.kattis.com/problems/modulo)|[Go](go/modulo/main.go)|
 |[Mumble Rap](https://open.kattis.com/problems/mumblerap)|[Rust](rust/mumble_rap/src/main.rs)|
 |[N-sum](https://open.kattis.com/problems/nsum)|[Go](go/n-sum/main.go)|
@@ -99,8 +100,8 @@
 |[Prsteni](https://open.kattis.com/problems/prsteni)|[Rust](rust/prsteni/src/main.rs)|
 |[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[Go](go/quality-adjusted_life-year/main.go)|
 |[Quick Estimates](https://open.kattis.com/problems/quickestimate)|[Rust](rust/quick_estimates/src/main.rs)|
-|[R2](https://open.kattis.com/problems/r2)|[Go](go/r2/main.go)|
 |[R2](https://open.kattis.com/problems/r2)|[Rust](rust/r2/src/main.rs)|
+|[R2](https://open.kattis.com/problems/r2)|[Go](go/r2/main.go)|
 |[Railroad](https://open.kattis.com/problems/railroad2)|[Rust](rust/railroad/src/main.rs)|
 |[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[Go](go/rating_problems/main.go)|
 |[Relocation](https://open.kattis.com/problems/relocation)|[Go](go/relocation/main.go)|
