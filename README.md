@@ -141,6 +141,7 @@
 |[Turn It Up!](https://open.kattis.com/problems/skruop)|[Go](go/turn_it_up/main.go)|
 |[Two-sum](https://open.kattis.com/problems/twosum)|[Go](go/two-sum/main.go)|
 |[Tölvunarfræðingar telja](https://open.kattis.com/problems/tolvunarfraedingartelja)|[Rust](rust/tolvunarfraedingar_telja/src/main.rs)|
+|[Umferð](https://open.kattis.com/problems/umferd)|[Rust](rust/umferd/src/main.rs)|
 |[Undead or Alive](https://open.kattis.com/problems/undeadoralive)|[Rust](rust/undead_or_alive/src/main.rs)|
 |[Velkomin!](https://open.kattis.com/problems/velkomin)|[Rust](rust/velkomin/src/main.rs)|
 |[Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar)|[Rust](rust/vedur_lokadar_heidar/src/main.rs)|
