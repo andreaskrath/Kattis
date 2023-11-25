@@ -143,6 +143,7 @@
 |[Tölvunarfræðingar telja](https://open.kattis.com/problems/tolvunarfraedingartelja)|[Rust](rust/tolvunarfraedingar_telja/src/main.rs)|
 |[Undead or Alive](https://open.kattis.com/problems/undeadoralive)|[Rust](rust/undead_or_alive/src/main.rs)|
 |[Velkomin!](https://open.kattis.com/problems/velkomin)|[Rust](rust/velkomin/src/main.rs)|
+|[Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar)|[Rust](rust/vedur_lokadar_heidar/src/main.rs)|
 |[Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)|[Rust](rust/vidsnuningur/src/main.rs)|
 |[Which is Greater?](https://open.kattis.com/problems/whichisgreater)|[Rust](rust/which_is_greater/src/main.rs)|
 |[Zamka](https://open.kattis.com/problems/zamka)|[Go](go/zamka/main.go)|
