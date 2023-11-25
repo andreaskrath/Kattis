@@ -48,6 +48,7 @@
 |[Filip](https://open.kattis.com/problems/filip)|[Go](go/filip/main.go)|
 |[Finding An A](https://open.kattis.com/problems/findingana)|[Go](go/finding_an_a/main.go)|
 |[FizzBuzz](https://open.kattis.com/problems/fizzbuzz)|[Go](go/fizzbuzz/main.go)|
+|[Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla)|[Rust](rust/flatbokuveisla/src/main.rs)|
 |[Forced Choice](https://open.kattis.com/problems/forcedchoice)|[Rust](rust/forced_choice/src/main.rs)|
 |[Framtíðar FIFA](https://open.kattis.com/problems/fifa)|[Rust](rust/fremtidar_fifa/src/main.rs)|
 |[Free Food](https://open.kattis.com/problems/freefood)|[Rust](rust/free_food/src/main.rs)|
