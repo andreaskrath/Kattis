@@ -31,7 +31,6 @@ debug/
 # Go workspace file
 go.work
 
-# Nix things
-shell.nix
+# dir env things
 .envrc
 .direnv
