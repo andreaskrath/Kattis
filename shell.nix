@@ -19,4 +19,6 @@ pkgs.mkShell {
   ];
 
   # RUST_BACKTRACE = "1";
+  RUST_LLDB_LOOKUP="${rust}/lib/rustlib/etc/lldb_lookup.py";
+  RUST_LLDB_COMMANDS="${rust}/lib/rustlib/etc/lldb_commands";
 }
