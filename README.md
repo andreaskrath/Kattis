@@ -105,6 +105,7 @@
 |[R2](https://open.kattis.com/problems/r2)|[Go](go/r2/main.go)|
 |[Railroad](https://open.kattis.com/problems/railroad2)|[Rust](rust/railroad/src/main.rs)|
 |[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[Go](go/rating_problems/main.go)|
+|[Reduplication](https://open.kattis.com/problems/reduplikation)|[Rust](rust/reduplication/src/main.rs)|
 |[Relocation](https://open.kattis.com/problems/relocation)|[Go](go/relocation/main.go)|
 |[Reverse](https://open.kattis.com/problems/ofugsnuid)|[Go](go/reverse/main.go)|
 |[Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary)|[Go](go/reversed_binary_numbers/main.go)|
