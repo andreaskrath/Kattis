@@ -115,6 +115,7 @@
 |[Odd Man Out](https://open.kattis.com/problems/oddmanout)|[Rust](rust/odd_man_out/src/main.rs)|
 |[Oddities](https://open.kattis.com/problems/oddities)|[Go](go/oddities/main.go)|
 |[Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)|[Go](go/piece_of_cake/main.go)|
+|[Pizzubestun](https://open.kattis.com/problems/pizzubestun)|[Rust](rust/pizzubestun/src/main.rs)|
 |[Planina](https://open.kattis.com/problems/planina)|[Go](go/planina/main.go)|
 |[Pokechat](https://open.kattis.com/problems/pokechat)|[Rust](rust/pokechat/src/main.rs)|
 |[Poker Hand](https://open.kattis.com/problems/pokerhand)|[Go](go/poker_hand/main.go)|
